@@ -28,10 +28,11 @@ Unit2_Titanic_Group9/
 ├─ individual/
 │  ├─ 
 │  ├─ 
-│  └─ ...
+│  └─ 
 ├─ team/
 │  ├─ Ops_Brief.pdf
 │  └─ README.md
+
 
 
 ## Tools Used

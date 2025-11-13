@@ -50,7 +50,7 @@ Unit2_Titanic_Group9/
 - Max Matteucci  
 - Ethan Lebon
 - Ian Hedges  
-- 
+- Caleb Brunton
 
 ---
 

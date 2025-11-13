@@ -26,15 +26,13 @@ Can we accurately predict whether a passenger would survive the Titanic disaster
 ## Repository Structure
 Unit2_Titanic_Group9/
 ├─ individual/
-│  ├─ Max_Matteucci.ipynb
-│  ├─ Ethan_Lebon.ipynb
-│  ├─ Ian_Hedges.ipynb
-│  └─ Caleb_Brunton.ipynb
+│  ├─ 
+│  ├─ 
+│  └─ ...
 ├─ team/
 │  ├─ Ops_Brief.pdf
 │  └─ README.md
-└─ data/
-   └─ kaggle_titanic_raw.csv
+
 
 ## Tools Used
 - **Google BigQuery ML (BQML)**

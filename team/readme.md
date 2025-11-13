@@ -1,3 +1,5 @@
+## MAKE SURE TO CLICK "MORE PAGES" IN THE PDF.  
+
 # Team README 🚢📊
 
 **Team Members:** Max Matteucci, Ethan Lebon, Ian Hedges  

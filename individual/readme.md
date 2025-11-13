@@ -34,4 +34,4 @@ This notebook recreates the full Titanic survival modeling workflow using Kaggle
 6. Run all remaining notebook cells to reproduce every model, evaluation, and threshold analysis.
 
 ## Done 🎉
-These steps fully recreate the dataset and allow the entire analysis to run identically from scratch.
+These steps fully recreate the dataset and allow the entire analysis to run identically from scratch.  If you have any questions please contact mmatteuc@purdue.edu.

@@ -24,14 +24,26 @@ Can we accurately predict whether a passenger would survive the Titanic disaster
 ---
 
 ## Repository Structure
-Unit2_Titanic_Group9/
-├─ individual/
-│  ├─ 
-│  ├─ 
-│  └─ 
-├─ team/
-│  ├─ Ops_Brief.pdf
-│  └─ README.md
+<ul>
+  <li>Unit2_Titanic_Group9/
+    <ul>
+      <li>individual/
+        <ul>
+          <li>[file]</li>
+          <li>[file]</li>
+          <li>[file]</li>
+        </ul>
+      </li>
+      <li>team/
+        <ul>
+          <li>Ops_Brief.pdf</li>
+          <li>README.md</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 
 
 

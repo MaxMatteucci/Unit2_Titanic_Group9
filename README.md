@@ -54,3 +54,12 @@ Unit2_Titanic_Group9/
 
 ---
 
+
+## How to Run
+To reproduce our results, open the Colab notebook and upload your kaggle.json API token. The notebook will automatically download the Titanic dataset from Kaggle, upload it into your BigQuery project (database-project-467, titanic_dataset.titanic), and run all SQL and Python cells with no additional configuration. After setup, simply run each cell in order to train the baseline and engineered models, evaluate thresholds, and generate the associated plots and metrics.
+
+## Dataset Choice
+We selected the Kaggle Titanic dataset so that each team member could build their own private and reproducible BigQuery table. This avoided inconsistencies between public datasets and ensured identical schema and row counts when comparing individual work.
+
+## Assumptions
+Our modeling assumes only pre-embarkation features are available, matching the real decision scenario. Logistic regression was used for interpretability, and all labels in the Kaggle dataset were treated as accurate. Threshold adjustments were tested under the assumption that missing a true survivor is more costly than predicting survival incorrectly.
